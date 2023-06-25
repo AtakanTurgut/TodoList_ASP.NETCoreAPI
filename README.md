@@ -52,7 +52,7 @@ Try adding `TrustServerCertificate=True;` to your connection string in `Todos\ap
 ```json
 "ConnectionStrings": {
     "DefaultConnection": "Data Source=DESKTOP-R6K64T9\\SQLEXPRESS;Initial Catalog=TodoApp;Integrated Security=True;TrustServerCertificate=True;"
-  },
+},
 ```
 
 ----
