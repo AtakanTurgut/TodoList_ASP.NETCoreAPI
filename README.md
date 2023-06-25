@@ -56,7 +56,7 @@ Try adding `TrustServerCertificate=True;` to your connection string in `Todos\ap
 ```
 
 ----
-## TodoList API Test [Images](https://github.com/AtakanTurgut/TodoList_ASP.NETCoreAPI/tree/main/pictures)
+## TodoList API Test [Images](https://github.com/AtakanTurgut/TodoList_ASP.NETCoreAPI/tree/master/pictures)
 
 ### 1. Create Todo:  POST | https://localhost:7002/api/todos
 ![](/pictures/createTodo.PNG) 
